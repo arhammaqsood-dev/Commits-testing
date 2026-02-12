@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-=======
-hi
->>>>>>> a05245f31 (Save local changes before pull)
